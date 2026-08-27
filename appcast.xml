@@ -4,10 +4,10 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Island Pro</title>
         <item>
-            <title>3.3</title>
-            <pubDate>Thu, 27 Aug 2026 23:49:32 +0800</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>3.3</sparkle:shortVersionString>
+            <title>3.4</title>
+            <pubDate>Fri, 28 Aug 2026 01:25:30 +0800</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>3.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<!doctype html>
@@ -17,19 +17,19 @@ body{font:15px -apple-system,BlinkMacSystemFont,sans-serif;color:#202124;margin:
 h2{margin:0 0 10px}li{margin:6px 0}
 </style></head>
 <body>
-<h2>Island Pro 3.3 — открывается сразу</h2>
+<h2>Island Pro 3.4 — обновление невозможно пропустить</h2>
 <ul>
-  <li>Чёлка раскрывается практически мгновенно: пауза перед началом анимации убрана.</li>
-  <li>Курсор, который просто проходит мимо по дороге к строке меню, по-прежнему ничего не запускает.</li>
-  <li>Надёжное закрытие панели из 3.2 сохранено полностью — ничего не зависает после Pin, Скринов и контекстных меню.</li>
+  <li>Найденное обновление теперь само выводит заметное окно поверх остальных приложений.</li>
+  <li>Окно остаётся на экране до вашего решения: установить, напомнить позже или пропустить.</li>
+  <li>Пока решение не принято, Island Pro временно показывает отметку в Dock.</li>
 </ul>
-<p>Раньше панель ждала 200&nbsp;мс, прежде чем начать раскрываться: так она защищалась от лишней работы при случайном проходе курсора. Теперь эта защита перенесена туда, где реальная стоимость и возникает, поэтому ждать больше не нужно.</p>
+<p>После вашего выбора Island Pro автоматически возвращается в обычный фоновый режим.</p>
 </body></html>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/artematman/island-pro/main/Island-Pro-for-macOS-3.3.dmg" length="4168994" type="application/octet-stream" sparkle:edSignature="YKHy4ifijrhFQ8bbL57T+ZddNOBtxcqwRClLmW8qV06A3bx9NiedOrbUhhvS75AKDfs9oo481qyo2m5q9uMbCw=="></enclosure>
+            <enclosure url="https://raw.githubusercontent.com/artematman/island-pro/main/Island-Pro-for-macOS-3.4.dmg" length="4174672" type="application/octet-stream" sparkle:edSignature="pLazlxyWPyXE90wC+BR94ukHr8KYiUtiLi0zzYVa8a72GrDUgPqufUxd6wYNFWPE8blbzoRPMg4Q9b3NErapCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: tipJLNi/Wd0OKnpzTCaDZpo0PcwbbkBIGhMsT/H8c0FBn7jtJho5dBT9sY/IaFy6MTSWcilAh3v9UKkSJu65Bw==
-length: 2478
+edSignature: /n7i3Iv6GaytKjhA5hejCazCSbQURsVSXjjIhxzpMKrNnUAdCrcZwyhks6aOK/8x+YkZnnZ2xVbEfZ+Wo/v8Aw==
+length: 2147
 -->
