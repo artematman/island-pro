@@ -4,27 +4,39 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Island Pro</title>
         <item>
-            <title>2.1</title>
-            <pubDate>Thu, 20 Aug 2026 21:55:55 +0800</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <title>3.0</title>
+            <pubDate>Thu, 27 Aug 2026 11:54:08 +0800</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Island Pro 2.1</h2>
-<p>Большое обновление производительности, надёжности и удобства.</p>
-<ul>
-  <li><strong>Заметно меньше расход энергии:</strong> музыка запускает помощник только пока модуль открыт, буфер и скрины работают с адаптивной частотой.</li>
-  <li><strong>Чёлка закрывается предсказуемо:</strong> исправлены зависание раскрытой панели и поведение дочерних окон.</li>
-  <li><strong>Быстрее управление музыкой:</strong> команды переключения больше не запускают отдельные процессы.</li>
-  <li><strong>Надёжнее Скрины и Буфер:</strong> меньше фоновых пробуждений, без потери функций.</li>
-  <li><strong>Безопасные обновления:</strong> Island Pro сам сообщит о следующей подписанной и нотарифицированной версии.</li>
-</ul>
-<p>Ваши Pin, история буфера и тексты перевода никуда не отправляются. Автоматическая установка обновлений выключена — решение всегда остаётся за вами.</p>
+            <description><![CDATA[<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <style>
+    body { font: 15px -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.45; color: #222; }
+    h2 { margin-bottom: 8px; }
+    li { margin: 5px 0; }
+  </style>
+</head>
+<body>
+  <h2>Island Pro 3.0</h2>
+  <p>Большое обновление интерактивной чёлки для macOS.</p>
+  <ul>
+    <li>Скриншоты теперь отображаются ровными квадратными карточками, не перекрываются и удаляются отдельно.</li>
+    <li>Исправлен запуск из Dock и восстановление панели после полного закрытия.</li>
+    <li>Сохранены улучшения энергоэффективности: адаптивные фоновые проверки, кэширование музыки и экономный режим ожидания.</li>
+    <li>Добавлен защищённый канал обновлений. Island Pro сообщит о следующих версиях и предложит установить их.</li>
+  </ul>
+  <p>Обновление подписано Developer ID и проверено службой нотариализации Apple.</p>
+</body>
+</html>
 ]]></description>
-            <enclosure url="https://github.com/artematman/island-pro/releases/download/v2.1/Island-Pro-for-macOS-2.1.dmg" length="4042833" type="application/octet-stream" sparkle:edSignature="ZK3YnXSMxDZ8KI67BROQZXiGm7F9Ckn7ATWR65vDZES7HP7AwvJYnEGzBXuGGkDGh/Sc8LeuymBjdbGdBWPVCg=="></enclosure>
+            <enclosure url="https://raw.githubusercontent.com/artematman/island-pro/main/Island-Pro-for-macOS-3.0.dmg" length="4052785" type="application/octet-stream" sparkle:edSignature="QnTe7VbRXbIykg5/hcDmORAknpCdOVjIKGYItpfTulPbCnJpVZRIKY7HAmyKeahAkuUPekLbDURiNisGkdOiBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: iEO2lZwOrUfoz3QvelXfLdHyEPqWOkM5pQE6RpDPo1n2sW4YqXLVgbHXj6KLql4Xq5il547EGc6wlq8+Q8ObBA==
-length: 2654
+edSignature: CB4gm8VjZ0/T5mN2R39cqIX1btDUnUiHSSDN2g7AXnACQ0crf7P0TJ5OqHBiDxOtmffmcnEufWRfAoB9FzzoDw==
+length: 2503
 -->

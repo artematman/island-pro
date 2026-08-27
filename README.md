@@ -4,7 +4,7 @@ Official releases, signed update feed and release notes for **Island Pro** — a
 
 ## Install
 
-1. Download `Island-Pro-for-macOS-2.1.dmg` from **Releases**.
+1. Download `Island-Pro-for-macOS-3.0.dmg` from this repository.
 2. Open it and drag **Island Pro** into **Applications**.
 3. Launch Island Pro. macOS verifies the Developer ID signature and Apple notarization automatically.
 
@@ -12,7 +12,9 @@ Requirements: Apple silicon Mac, macOS 15 or later.
 
 ## Updates
 
-Island Pro 2.1 and later checks this repository's signed `appcast.xml` at most once per day. Every update is protected by EdDSA, Developer ID, Hardened Runtime and Apple notarization. Automatic installation is disabled; the user always chooses whether to install.
+Island Pro 2.1 and later checks this repository's signed `appcast.xml` at most once per day. When a newer build is published, the app shows an update prompt with release notes. Every update is protected by EdDSA, Developer ID, Hardened Runtime and Apple notarization. Silent installation is disabled; the user always chooses whether to install.
+
+Current version: **3.0 (build 9)**.
 
 ## Privacy
 
