@@ -14,7 +14,7 @@ Requirements: Apple silicon Mac, macOS 15 or later.
 
 Island Pro 2.1 and later checks this repository's signed `appcast.xml` at most once per day. When a newer build is published, the app shows an update prompt with release notes. Every update is protected by EdDSA, Developer ID, Hardened Runtime and Apple notarization. Silent installation is disabled; the user always chooses whether to install.
 
-Current version: **3.1 (build 10)**.
+Current version: **3.1 (build 11)**.
 
 ## Privacy
 
