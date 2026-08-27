@@ -4,39 +4,32 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Island Pro</title>
         <item>
-            <title>3.0</title>
-            <pubDate>Thu, 27 Aug 2026 11:54:08 +0800</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <title>3.1</title>
+            <pubDate>Thu, 27 Aug 2026 13:14:29 +0800</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<!doctype html>
 <html lang="ru">
-<head>
-  <meta charset="utf-8">
-  <style>
-    body { font: 15px -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.45; color: #222; }
-    h2 { margin-bottom: 8px; }
-    li { margin: 5px 0; }
-  </style>
-</head>
+<head><meta charset="utf-8"><style>
+body{font:15px -apple-system,BlinkMacSystemFont,sans-serif;color:#202124;margin:20px;line-height:1.45}
+h2{margin:0 0 10px}li{margin:6px 0}
+</style></head>
 <body>
-  <h2>Island Pro 3.0</h2>
-  <p>Большое обновление интерактивной чёлки для macOS.</p>
-  <ul>
-    <li>Скриншоты теперь отображаются ровными квадратными карточками, не перекрываются и удаляются отдельно.</li>
-    <li>Исправлен запуск из Dock и восстановление панели после полного закрытия.</li>
-    <li>Сохранены улучшения энергоэффективности: адаптивные фоновые проверки, кэширование музыки и экономный режим ожидания.</li>
-    <li>Добавлен защищённый канал обновлений. Island Pro сообщит о следующих версиях и предложит установить их.</li>
-  </ul>
-  <p>Обновление подписано Developer ID и проверено службой нотариализации Apple.</p>
-</body>
-</html>
+<h2>Island Pro 3.1 — Ссылки под рукой</h2>
+<ul>
+  <li>Новая вкладка «Ссылки»: добавляйте важные сайты и открывайте их одним кликом.</li>
+  <li>Выберите отдельный браузер для ссылок Island Pro или оставьте системный по умолчанию.</li>
+  <li>Ссылки хранятся локально и зашифрованы; приложение не загружает превью сайтов.</li>
+</ul>
+<p>Также улучшены стабильность, совместимость и внутренние проверки безопасности.</p>
+</body></html>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/artematman/island-pro/main/Island-Pro-for-macOS-3.0.dmg" length="4052785" type="application/octet-stream" sparkle:edSignature="QnTe7VbRXbIykg5/hcDmORAknpCdOVjIKGYItpfTulPbCnJpVZRIKY7HAmyKeahAkuUPekLbDURiNisGkdOiBw=="></enclosure>
+            <enclosure url="https://raw.githubusercontent.com/artematman/island-pro/main/Island-Pro-for-macOS-3.1.dmg" length="4153332" type="application/octet-stream" sparkle:edSignature="nvnc9x3nP+DzyD54hb1uPyDrcZ6DBUgMk2FCTQ+ht3zPKOI2e8PgxZpWafx0u/oZW1aWY1A+ptLnDDqWZhSYDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: CB4gm8VjZ0/T5mN2R39cqIX1btDUnUiHSSDN2g7AXnACQ0crf7P0TJ5OqHBiDxOtmffmcnEufWRfAoB9FzzoDw==
-length: 2503
+edSignature: ZH4SwvyIKarKGxoz7p8eIhrfB+HCUKGevplEjBzl7AS9cOaNNw0bNUBQ+A8v5xik6szN0VEamBB/V6oceLlRBQ==
+length: 2123
 -->
