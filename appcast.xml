@@ -4,10 +4,10 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Island Pro</title>
         <item>
-            <title>3.1</title>
-            <pubDate>Thu, 27 Aug 2026 13:31:30 +0800</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>3.1</sparkle:shortVersionString>
+            <title>3.2</title>
+            <pubDate>Thu, 27 Aug 2026 14:41:24 +0800</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<!doctype html>
@@ -17,20 +17,20 @@ body{font:15px -apple-system,BlinkMacSystemFont,sans-serif;color:#202124;margin:
 h2{margin:0 0 10px}li{margin:6px 0}
 </style></head>
 <body>
-<h2>Island Pro 3.1 — Ссылки под рукой</h2>
+<h2>Island Pro 3.2 — панель снова слушается</h2>
 <ul>
-  <li>Новая вкладка «Ссылки»: добавляйте важные сайты и открывайте их одним кликом.</li>
-  <li>Выберите отдельный браузер для ссылок Island Pro или оставьте системный по умолчанию.</li>
-  <li>Ссылки хранятся локально и зашифрованы; приложение не загружает превью сайтов.</li>
-  <li>Боковая панель стала свободнее: семь инструментов распределены равномерно по высоте.</li>
+  <li>Исправлено зависание раскрытой чёлки после работы с Pin, Скринами и контекстными меню.</li>
+  <li>Клик вне видимой панели и уход курсора теперь надёжно сворачивают Island Pro.</li>
+  <li>Ненужные инструменты можно скрыть и вернуть в Настройках без перезапуска.</li>
+  <li>Высота раскрытой панели автоматически уменьшается вместе с числом видимых инструментов.</li>
 </ul>
-<p>Также улучшены стабильность, совместимость и внутренние проверки безопасности.</p>
+<p>Скрытые инструменты не запускают свои фоновые службы, поэтому настройка также помогает снизить расход энергии.</p>
 </body></html>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/artematman/island-pro/main/Island-Pro-for-macOS-3.1.dmg" length="4153580" type="application/octet-stream" sparkle:edSignature="KkjBa7dIe37savibj9itiRQWtbaUxKPvV9/YUc/4E2xCjUEc5A+2/NTk0TsmqCnuzW63By16mxSXBxKqqnrmAg=="></enclosure>
+            <enclosure url="https://raw.githubusercontent.com/artematman/island-pro/main/Island-Pro-for-macOS-3.2.dmg" length="4164518" type="application/octet-stream" sparkle:edSignature="MuxB4mK1ixdJ1XSrUeWOb9E26+o7VGWQNTa2FuEDra7VrbAz+nvuxVM6htwVPICw/IXeRBabnmPuVUiWnHHrDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ZqmsDyM/jHRgNTexDXa1Hq4GEEMUHEc5egrHYb5I4u0EPxVZRocj2Y26NKlKzgt2c5N4Cu1eOQnc71c6wD8GAw==
-length: 2292
+edSignature: /fefwL7AXV+s22kMWYP1Dz4HVc4cf+MnbalajZK+d34kooyS/3tnMfFpaaZzU497QSxz9i2QwikAK1wRAOecAg==
+length: 2358
 -->
